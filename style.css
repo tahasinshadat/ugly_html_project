@@ -36,11 +36,7 @@ h2{
     font-size: 15px;
 }
 
-.all_pokemon_container h3{
-    padding-left: 10px;
-}
-
-.all_pokemon_container p{
+.all_pokemon_container h3, p{
     padding-left: 10px;
 }
 
